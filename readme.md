@@ -1,10 +1,7 @@
-#GitHub View modes
+20171207 每日格言-效能
 
-GitHub is all about comparing versions right? So why not make comparing images more awesome? GitHub now has view modes for image diffs.
+![每日格言-效能](http://img.zcool.cn/community/01bcd05a28b9a8a801216e8d728860.jpg@1280w_1l_2o_100sh.jpg)
 
-* __Two Up:__ Lets you see your versions side by side, and shows you any changes in image dimensions.
-* __Swipe:__ Allows you to see edge to edge changes making it easy to detect minute color shifts.
-* __Onion Skin:__ Allows you to see through your versions, making subtle alignment shifts easier to spot.
-* __Difference:__ Lets you quickly see which pixels in a image have changed between versions.
+20171208 每日格言-商机
 
-To see it in action, check out [the demo](https://github.com/cameronmcefee/Image-Diff-View-Modes/commit/8e95f70c9c47168305970e91021072673d7cdad8)
+![每日格言-商机](http://img.zcool.cn/community/018eaf5a2a03dca80120ba38534ff9.jpg@1280w_1l_2o_100sh.jpg)
