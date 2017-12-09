@@ -11,9 +11,17 @@
 
 ## README.md 图片插入显示参考方法：
 - http://blog.csdn.net/jingbin_/article/details/52960826
+<!-- <div align=center><img width="150" height="150" src="http://img.blog.csdn.net/20161028230559575"/></div> -->
+
+- https://segmentfault.com/q/1010000009972155
+
+<!-- <img src='http://img2.imgtn.bdimg.com/it/u=4076814747,12025271&fm=26&gp=0.jpg' align='right' style=' width:300px;height:100 px'/>
+
+<img src='http://img2.imgtn.bdimg.com/it/u=4076814747,12025271&fm=26&gp=0.jpg' style='float:right; width:300px;height:100 px'/ -->
+
 ---
-<img src="https://github.com/shenzhoudance/caihuahengyiIMG/blob/master/20171207%E6%AF%8F%E6%97%A5%E6%A0%BC%E8%A8%80-%E6%95%88%E8%83%BD.jpg" align='right' width="100" height="200" alt="20171207"/>
+<img src="https://github.com/shenzhoudance/caihuahengyiIMG/blob/master/20171207%E6%AF%8F%E6%97%A5%E6%A0%BC%E8%A8%80-%E6%95%88%E8%83%BD.jpg" align='left' width="100" height="200" alt="20171207"/>
 
-<img src="https://github.com/shenzhoudance/caihuahengyiIMG/blob/master/20171208%E6%AF%8F%E6%97%A5%E6%A0%BC%E8%A8%80-%E5%95%86%E6%9C%BA.jpg" align='right' width="100" height="200" alt="20171208"/>
+<img src="https://github.com/shenzhoudance/caihuahengyiIMG/blob/master/20171208%E6%AF%8F%E6%97%A5%E6%A0%BC%E8%A8%80-%E5%95%86%E6%9C%BA.jpg" align='left' width="100" height="200" alt="20171208"/>
 
-<img src="https://github.com/shenzhoudance/caihuahengyiIMG/blob/master/20171209%E6%AF%8F%E6%97%A5%E6%A0%BC%E8%A8%80-%E5%AD%A6%E4%B9%A0.jpg" align='right' width="100" height="200" alt="20171209"/>
+<img src="https://github.com/shenzhoudance/caihuahengyiIMG/blob/master/20171209%E6%AF%8F%E6%97%A5%E6%A0%BC%E8%A8%80-%E5%AD%A6%E4%B9%A0.jpg" align='left' width="100" height="200" alt="20171209"/>
