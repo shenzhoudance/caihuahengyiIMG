@@ -10,13 +10,10 @@
 
 20171207 每日格言-效能
 
-![每日格言-效能](https://github.com/shenzhoudance/caihuahengyiIMG/blob/master/20171207%E6%AF%8F%E6%97%A5%E6%A0%BC%E8%A8%80-%E6%95%88%E8%83%BD.jpg)
----
-<img width="150" height="150" src="https://github.com/shenzhoudance/caihuahengyiIMG/blob/master/20171207%E6%AF%8F%E6%97%A5%E6%A0%BC%E8%A8%80-%E6%95%88%E8%83%BD.jpg"/>
+![每日格言-效能]<img width="100" height="200" src="https://github.com/shenzhoudance/caihuahengyiIMG/blob/master/20171207%E6%AF%8F%E6%97%A5%E6%A0%BC%E8%A8%80-%E6%95%88%E8%83%BD.jpg"/>
 
 20171208 每日格言-商机
-
-![每日格言-商机](https://github.com/shenzhoudance/caihuahengyiIMG/blob/master/20171208%E6%AF%8F%E6%97%A5%E6%A0%BC%E8%A8%80-%E5%95%86%E6%9C%BA.jpg)
+![每日格言-效能]<img width="100" height="200" src="https://github.com/shenzhoudance/caihuahengyiIMG/blob/master/20171208%E6%AF%8F%E6%97%A5%E6%A0%BC%E8%A8%80-%E5%95%86%E6%9C%BA.jpg"/>
 
 20171209 每日格言-学习
-![每日格言-商机](http://img.zcool.cn/community/01b3915a2b6bf0a801216e8dbcf718.jpg@1280w_1l_2o_100sh.jpg)
+![每日格言-学习]<img width="100" height="200" src="https://github.com/shenzhoudance/caihuahengyiIMG/blob/master/20171209%E6%AF%8F%E6%97%A5%E6%A0%BC%E8%A8%80-%E5%AD%A6%E4%B9%A0.jpg"/>
