@@ -29,3 +29,5 @@
 <img src="https://github.com/shenzhoudance/caihuahengyiIMG/blob/master/20171210%E8%90%A5%E9%94%80%E5%AE%A3%E4%BC%A0-%E5%86%99%E4%BD%9C.jpg" align='left' width="100" height="200" alt="20171210"/>
 
 <img src="https://github.com/shenzhoudance/caihuahengyiIMG/blob/master/20171211%E9%97%A8%E5%BE%92%E8%AE%A1%E5%88%92-%E5%9F%B9%E8%AE%AD.jpg" align='left' width="100" height="200" alt="20171211"/>
+
+<img src="https://github.com/shenzhoudance/caihuahengyiIMG/blob/master/20171212%E8%B7%A8%E5%B9%B4%E6%BC%94%E8%AE%B2-%E5%88%86%E4%BA%AB.jpg" align='left' width="100" height="200" alt="20171212"/>
