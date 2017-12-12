@@ -6,6 +6,17 @@
 - （2）选定背景：在这个过程中，根据自己所需要的关键词完成背景的获取，最好的手段是自己使用手机或者照相机完成背景图片的拍摄；
 - （3）选定板式：想要比较好的呈现我们所需要的图片，需要完成经典案例的拍摄的模仿，这样就可以最快速的介绍工作的时间；
 - （4）选择尺寸：1920 * 1080
+## 图片参考网址
+- unsplash  https://unsplansh.com
+- pexels  https://www.pexels.com
+- pixabay https://pixabay.com
+- visualhunt https://visuallhunt.com
+- new old stick https://nos.twnsnd.co
+- stocksandwich http://stocksandwich.com
+- life of pix http://www.lifeofpix.com
+- foodshot https://foodshot.com
+- foodiesfeed https://www.foodiesfeed.com
+
 
 总结作图的思路：最快速的确定主题，然后在这个过程中，查看大量的案例，构建板式，然后在这个过程中，选择切合主题的北京图片，然后选定其中的文字代表和素材代表，从而完成图片的输出；
 
